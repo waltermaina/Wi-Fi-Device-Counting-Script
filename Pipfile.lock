@@ -1,0 +1,43 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "e4321b78ed64291ec45862979c43caebe79e0481a10e38c18b5f912adc8bea3b"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.10"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "getmac": {
+            "hashes": [
+                "sha256:8477755b69ff93a3b514b54e1fbb8ebb57d8f4e5c37e7c18bcef3a0f1f149232",
+                "sha256:a981f2609ca64e9b364de3e1900d41cb93896a2a68aaec8583369e1a2d33bc15"
+            ],
+            "index": "pypi",
+            "version": "==0.9.4"
+        },
+        "networkscan": {
+            "hashes": [
+                "sha256:07344e5e5b2d7afaf5703c0ea475d33a9d3b568f23e2cc3611ffa957e4cc91b9"
+            ],
+            "index": "pypi",
+            "version": "==1.0.9"
+        },
+        "playsound": {
+            "hashes": [
+                "sha256:1e83750a5325cbccee03d6e751ba3e78c037ac95b95a3ba1f38d0c5aca9e1a34"
+            ],
+            "index": "pypi",
+            "version": "==1.2.2"
+        }
+    },
+    "develop": {}
+}
